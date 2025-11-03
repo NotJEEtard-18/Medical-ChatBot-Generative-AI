@@ -1,7 +1,5 @@
 # Medical-ChatBot-Generative-AI
 
-# End-to-end-Medical-Chatbot-Generative-AI
-
 
 # How to run?
 ### STEPS:
